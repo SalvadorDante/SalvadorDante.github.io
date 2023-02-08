@@ -260,11 +260,8 @@ body {
   justify-content: center;
 }
 
-.fcc-btn {
-  background-color: #199319;
-  color: white;
-  padding: 15px 25px;
-  text-decoration: none;
+
+
 }
 
 .fcc-btn:hover {
@@ -274,7 +271,8 @@ body {
 
 .btn {
 
-    background-color: black;
+
+    
     color: rgb(255, 255, 255);
     text-transform: uppercase;
     font-weight: 700;
